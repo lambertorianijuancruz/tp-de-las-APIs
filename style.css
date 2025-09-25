@@ -1,0 +1,23 @@
+h1 { color: red;
+}
+
+body { background-color: #000033;
+}
+
+img{
+    color: azure;
+    height: 10ch;
+}
+
+nav {
+    background-color: aqua;
+}
+
+.nav{
+    background-color: aqua;
+}
+
+
+footer{
+    color: azure;
+}
